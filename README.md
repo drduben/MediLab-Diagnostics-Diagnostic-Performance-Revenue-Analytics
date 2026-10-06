@@ -5,15 +5,15 @@ End-to-end Power BI healthcare analytics case study demonstrating data preparati
 
 ### Executive & Diagnostic Overview
 
-![MediLab Diagnostics - Executive & Diagnostic Overview](Dashboard/Overview.png)
+![MediLab Diagnostics - Executive & Diagnostic Overview](Dashboard/Page_1.png)
 
 ### Patient Analysis
 
-![MediLab Diagnostics - Patient Analysis](Dashboard/Patient.png)
+![MediLab Diagnostics - Patient Analysis](Dashboard/Page_2.png)
 
 ### Service & Financial Analysis
 
-![MediLab Diagnostics - Service & Financial Analysis](Dashboard/Service.png)
+![MediLab Diagnostics - Service & Financial Analysis](Dashboard/Page_3.png)
 
 Project at a glance
 

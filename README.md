@@ -716,3 +716,4 @@ Validate the numbers.
 The goal is not to create more charts.
 
 The goal is to turn data into evidence that supports better decisions.
+Add case study write-up

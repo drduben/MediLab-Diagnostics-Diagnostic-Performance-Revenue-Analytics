@@ -1,6 +1,19 @@
 MediLab Diagnostics - Diagnostic Performance & Revenue Analytics
 
 End-to-end Power BI healthcare analytics case study demonstrating data preparation, analytical modelling, KPI development, DAX, dashboard design, insight generation and evidence-based business recommendations.
+## Dashboard Preview
+
+### Executive & Diagnostic Overview
+
+![MediLab Diagnostics - Executive & Diagnostic Overview](Dashboard/Overview.png)
+
+### Patient Analysis
+
+![MediLab Diagnostics - Patient Analysis](Dashboard/Patient.png)
+
+### Service & Financial Analysis
+
+![MediLab Diagnostics - Service & Financial Analysis](Dashboard/Service.png)
 
 Project at a glance
 
